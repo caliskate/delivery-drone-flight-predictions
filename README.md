@@ -1,5 +1,6 @@
 # delivery-drone-flight-predictions
 USD AAI-530 Data Analytics and Internet of Things - Final Project: Delivery Drone Flight Predictions.
+
 Group 6: Ahmed Salem, Matt Thompson, Darin Verduzco
 
 Project guideline to include at least one time series prediction and at least one deep learning method to predict different variables from quadcopter delivery drone flight data.

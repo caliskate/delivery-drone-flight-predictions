@@ -1,4 +1,4 @@
 
-flights.csv
+*.csv
 /.ipynb_checkpoints
 *.xlsx

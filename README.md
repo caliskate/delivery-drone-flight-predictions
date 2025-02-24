@@ -3,7 +3,6 @@ USD AAI-530 Data Analytics and Internet of Things - Final Project: Delivery Dron
 
 Group 6: Ahmed Salem, Matt Thompson, Darin Verduzco
 
-Project guideline to include at least one time series prediction and at least one deep learning method to predict different variables from quadcopter delivery drone flight data:
 <br>Time Series Prediction: Uses OLS Time Series to predict drone battery current from environment variables
 <br>Deep Learning Prediction: Uses LSTM to predict drone altitude from environment variables
 

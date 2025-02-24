@@ -4,8 +4,8 @@ USD AAI-530 Data Analytics and Internet of Things - Final Project: Delivery Dron
 Group 6: Ahmed Salem, Matt Thompson, Darin Verduzco
 
 Project guideline to include at least one time series prediction and at least one deep learning method to predict different variables from quadcopter delivery drone flight data:
-<br>Prediction 1: Uses OLS Time Series to predict drone battery current from environment variables
-<br>Prediction 2: Uses LSTM to predict drone altitude from environment variables
+<br>Time Series Prediction: Uses OLS Time Series to predict drone battery current from environment variables
+<br>Deep Learning Prediction: Uses LSTM to predict drone altitude from environment variables
 
 Rodrigues, Thiago A.; Patrikar, Jay; Choudhry, Arnav; Feldgoise, Jacob; Arcot, Vaibhav; Gahlaut, Aradhana; et al. (2020). Data Collected with Package Delivery Quadcopter Drone. Carnegie Mellon University. Dataset. https://doi.org/10.1184/R1/12683453.v1
 
